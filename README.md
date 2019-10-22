@@ -7,4 +7,4 @@ Open the via.html file and load the Pradeep_Elavarasan_EIP3-1B.json. Now you can
 
 Example:
 
-![Example.JPG] (https://github.com/pradeepelavarasan/Auto-Rickshaw-Number-Plate-Detection/blob/master/Object%20Recognition%20Example%20-%20Autorickshaw.JPG)
+![Example.JPG] (https://raw.githubusercontent.com/pradeepelavarasan/Auto-Rickshaw-Number-Plate-Detection/master/Object%20Recognition%20Example%20-%20Autorickshaw.JPG)
