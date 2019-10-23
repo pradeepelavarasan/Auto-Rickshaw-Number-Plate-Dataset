@@ -8,7 +8,7 @@ Open the via.html file and load the Pradeep_Elavarasan_EIP3-1B.json. Now you can
 Example:
 ![my_image](/Object%20Recognition%20Example%20-%20Autorickshaw.JPG)
 
-**Steps to use: (Json)**
+**Steps to use: (JSON)**
 
 If you want to consume the data annotation, you can directly use the images files along with the Pradeep_Elavarasan_EIP3-1B.json file. 
 
