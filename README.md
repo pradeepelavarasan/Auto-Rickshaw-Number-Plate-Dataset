@@ -6,7 +6,6 @@ Steps to use:
 Open the via.html file and load the Pradeep_Elavarasan_EIP3-1B.json. Now you can view all the images with their corresponding number plate details. You can also create new annotation using the via.html file. 
 
 Example:
- ![](images/Object%20Recognition%20Example%20-%20Autorickshaw.JPG)
 ![my_image](/Object%20Recognition%20Example%20-%20Autorickshaw.JPG)
 
 
