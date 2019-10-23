@@ -1,7 +1,7 @@
 # Auto-Rickshaw-Number-Plate-Dataset
 This repository contains the annotated data set for 25 auto rickshaw images with corresponding number plate details.
 
-##Steps to use: (User Interface)
+###Steps to use: (User Interface)
 
 Open the via.html file and load the Pradeep_Elavarasan_EIP3-1B.json. Now you can view all the images with their corresponding number plate details. You can also create new annotation using the via.html file. 
 
